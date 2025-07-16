@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2016" /* Specify ECMAScript target version. */,
+    "module": "CommonJS" /* Specify module code generation (e.g., for Node.js environments or older browser compatibility). */,
+    "outDir": "./dist" /* Specify an output folder for all emitted JavaScript files. */,
+    "strict": true /* Enable all strict type-checking options for better code quality. */,
+    "esModuleInterop": true /* Emit additional JavaScript to ease support for importing CommonJS modules. */,
+    "skipLibCheck": true /* Skip type checking all .d.ts files. */,
+    "forceConsistentCasingInFileNames": true /* Ensure that casing is correct in imports. */
+  },
+  "include": [
+    "./src/**/*.ts" /* Include all .ts files within the 'src' folder and its subfolders. */
+  ],
+  "exclude": [
+    "node_modules" /* Exclude the node_modules folder from compilation. */
+  ]
+}

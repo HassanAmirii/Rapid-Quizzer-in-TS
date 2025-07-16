@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Compiled TypeScript output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# IDE specific files
+.vscode/        # VS Code specific settings
+.idea/          # IntelliJ/WebStorm IDE files
+*.sublime-project
+*.sublime-workspace
+
+# Operating System generated files
+.DS_Store       # macOS
+Thumbs.db       # Windows

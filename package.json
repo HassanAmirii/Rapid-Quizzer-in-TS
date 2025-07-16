@@ -1,0 +1,26 @@
+{
+  "name": "rapidquiz-in-ts",
+  "version": "1.0.0",
+  "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae distinctio delectus unde atque, similique quidem id molestiae est ex! Ipsum veniam laboriosam porro ipsa eaque sed mollitia, optio veritatis non?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HassanAmirii/Rapid-Quizzer-in-TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HassanAmirii/Rapid-Quizzer-in-TS/issues"
+  },
+  "homepage": "https://github.com/HassanAmirii/Rapid-Quizzer-in-TS#readme",
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}
