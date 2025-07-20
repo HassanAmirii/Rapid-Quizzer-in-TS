@@ -14,3 +14,6 @@ interface fetchJsonData {
   juniorSection: sectionData[];
   secondarySection: sectionData[];
 }
+document.addEventListener("DOMContentLoaded", async () => {
+  const classApp = document.getElementById("classApp");
+});
